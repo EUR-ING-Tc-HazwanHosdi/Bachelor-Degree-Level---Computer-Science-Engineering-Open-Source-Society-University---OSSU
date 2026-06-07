@@ -1,5 +1,5 @@
-# Computer Science Curriculum (OSSU-Based)
-### Self-Directed Engineering Program
+# Computer Science Curriculum (OSSU-Based) - Open Source Society University
+### Self-Directed Engineering Program (Bachelor of Science in Computer Science Level)
 
 ## 🧠 Overview
 This repository documents a structured, university-equivalent Computer Science curriculum based on the OSSU (Open Source Society University) framework, supplemented with MIT OpenCourseWare and real-world software engineering projects.
